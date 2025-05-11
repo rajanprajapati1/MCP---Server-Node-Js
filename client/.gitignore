@@ -1,0 +1,11 @@
+
+.env
+env.js
+node_modules
+package-lock.json
+pnpm-lock.yaml
+dist
+.vscode
+.vscode-test
+.vscode-test
+env
